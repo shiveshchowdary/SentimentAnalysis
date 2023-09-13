@@ -6,6 +6,24 @@ __pycache__/
 # C extensions
 *.so
 
+# Python
+__pycache__/
+*.pyc
+
+# Data files (excluding .ipynb files)
+*.csv
+*.json
+*.xls
+*.xlsx
+*.sqlite
+
+# Log files
+*.log
+
+# Virtual Environment
+venv/
+env/
+
 # Distribution / packaging
 .Python
 build/
